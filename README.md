@@ -1,6 +1,6 @@
-# AWS infrastructure automation
+# AWS Infrastructure Automation
 
-# Usage
+## Usage
 ```
 git clone https://github.com/MichaelYSY/aws_infra_auto.git
 cd aws_infra_auto/terraform/

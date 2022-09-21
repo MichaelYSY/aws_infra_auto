@@ -31,11 +31,6 @@ variable "key_pair_name" {
     default = "michael-lab"
 }
 
-variable "vpc_id" {
-    description = "The VPC id of instance(s)"
-    default = "vpc-04c77cabe38006153"
-}
-
 variable "subnet_id" {
     description = "The subnet id of instance(s)"
     default = "subnet-093af2e1fc0ba6ea8"
